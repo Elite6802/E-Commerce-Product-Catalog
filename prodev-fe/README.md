@@ -1,5 +1,3 @@
-# E-Commerce-Product-Catalog
-
 React Infinite Products List
 
 A modern, responsive React application designed to simulate an e-commerce product catalog. This project demonstrates efficient data fetching patterns using infinite scrolling, robust state management with Redux Toolkit, and a polished UI using Tailwind CSS.
@@ -96,8 +94,8 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/react-infinite-products-list.git](https://github.com/yourusername/react-infinite-products-list.git)
-cd react-infinite-products-list
+git clone [https://github.com/Elite6802/E-Commerce-Product-Catalog.git](https://github.com/Elite6802/E-Commerce-Product-Catalog.git)
+cd E-Commerce-Product-Catalog/prodev-fe
 
 
 Install dependencies:
