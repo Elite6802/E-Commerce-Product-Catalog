@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from "react";
+import { useRef, useEffect } from "react";
 import ProductCard from "./ProductCard";
 import LoadingSpinner from "../../components/LoadingSpinner";
 import ErrorBanner from "../../components/ErrorBanner";

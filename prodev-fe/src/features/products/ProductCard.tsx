@@ -1,4 +1,3 @@
-import React from "react";
 import type { Product } from "./productsTypes";
 import { Link } from "react-router-dom";
 import { useAppDispatch } from "../../app/hooks";

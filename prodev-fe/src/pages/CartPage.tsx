@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppDispatch, useAppSelector } from "../app/hooks";
 import { setQuantity, removeFromCart, clearCart } from "../features/cart/cartSlice";
 import { Link } from "react-router-dom";

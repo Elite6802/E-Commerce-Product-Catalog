@@ -4,7 +4,7 @@ import { loadAllProducts, loadNextPage, loadCategories } from "./productsSlice";
 
 export const useInfiniteProducts = () => {
   const dispatch = useAppDispatch();
-  const { visibleItems, allItems, page, perPage, hasMore, loading } = useAppSelector(s => s.products);
+  const { visibleItems, allItems, hasMore, loading } = useAppSelector(s => s.products);
   const observer = useRef<IntersectionObserver | null>(null);
 
   useEffect(() => {

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../app/hooks";
 import { applyFilters, resetVisible } from "./productsSlice";
 import SortDropdown from "../../components/SortDropdown";

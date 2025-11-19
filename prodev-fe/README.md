@@ -75,13 +75,13 @@ src/
 │   └── LoadingSpinner.tsx # CSS/SVG based spinner
 ├── features/
 │   └── products/
-│       ├── ProductCard.tsx       # Individual product display component
-│       ├── ProductsList.tsx      # Main grid container
-│       ├── productsSlice.ts      # Redux slice (state, reducers, thunks)
-│       └── useInfiniteProducts.ts # Custom hook for scroll logic
-├── App.tsx                # Main application layout
-├── index.tsx              # Entry point
-└── index.css              # Tailwind directives and global styles
+│       ├── ProductCard.tsx
+│       ├── ProductsList.tsx
+│       ├── productsSlice.ts
+│       └── useInfiniteProducts.ts
+├── App.tsx
+├── index.tsx
+└── index.css
 
 
 🚀 Getting Started

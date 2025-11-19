@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import Filters from "../features/products/Filters";
 import ProductsList from "../features/products/ProductsList";
 import { useAppDispatch } from "../app/hooks";

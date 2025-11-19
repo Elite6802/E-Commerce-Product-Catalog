@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppDispatch, useAppSelector } from "../app/hooks";
 import { applyFilters, resetVisible } from "../features/products/productsSlice";
 
